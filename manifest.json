@@ -1,6 +1,6 @@
 {
   "name": "auto_tool_recovery",
-  "auto_deploy": false,
+  "auto_deploy": true,
   "safety_checks": true,
   "pause_enabled": true
 }
